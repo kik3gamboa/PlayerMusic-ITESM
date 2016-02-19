@@ -13,6 +13,21 @@
 		837032F31C779AFF00D75E09 /* MusicPlayer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 837032F11C779AFF00D75E09 /* MusicPlayer.xcdatamodeld */; };
 		837032F51C779AFF00D75E09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 837032F41C779AFF00D75E09 /* Assets.xcassets */; };
 		837032F81C779AFF00D75E09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 837032F61C779AFF00D75E09 /* LaunchScreen.storyboard */; };
+		8370330D1C77A4ED00D75E09 /* A Sky Full of Stars.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 837032FF1C77A4ED00D75E09 /* A Sky Full of Stars.mp3 */; };
+		8370330E1C77A4ED00D75E09 /* Alive.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 837033001C77A4ED00D75E09 /* Alive.mp3 */; };
+		8370330F1C77A4ED00D75E09 /* Como Te Voy a Olvidar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 837033011C77A4ED00D75E09 /* Como Te Voy a Olvidar.jpg */; };
+		837033101C77A4ED00D75E09 /* Entren Los Que Quieran.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 837033021C77A4ED00D75E09 /* Entren Los Que Quieran.jpg */; };
+		837033111C77A4ED00D75E09 /* Ghost Stories.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 837033031C77A4ED00D75E09 /* Ghost Stories.jpg */; };
+		837033121C77A4ED00D75E09 /* Go.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 837033041C77A4ED00D75E09 /* Go.mp3 */; };
+		837033131C77A4ED00D75E09 /* Ice on the Dune.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 837033051C77A4ED00D75E09 /* Ice on the Dune.jpg */; };
+		837033141C77A4ED00D75E09 /* Mis Sentimientos.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 837033061C77A4ED00D75E09 /* Mis Sentimientos.mp3 */; };
+		837033151C77A4ED00D75E09 /* Muerte En Hawai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 837033071C77A4ED00D75E09 /* Muerte En Hawai.mp3 */; };
+		837033161C77A4ED00D75E09 /* Riot Van.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 837033081C77A4ED00D75E09 /* Riot Van.mp3 */; };
+		837033171C77A4ED00D75E09 /* Straighten the Rudder.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 837033091C77A4ED00D75E09 /* Straighten the Rudder.jpg */; };
+		837033181C77A4ED00D75E09 /* The Bay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8370330A1C77A4ED00D75E09 /* The Bay.mp3 */; };
+		837033191C77A4ED00D75E09 /* The English Riviera.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8370330B1C77A4ED00D75E09 /* The English Riviera.jpg */; };
+		8370331A1C77A4ED00D75E09 /* The Race For Space.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8370330C1C77A4ED00D75E09 /* The Race For Space.jpg */; };
+		8370331C1C77B69700D75E09 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8370331B1C77B69700D75E09 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +39,21 @@
 		837032F41C779AFF00D75E09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		837032F71C779AFF00D75E09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		837032F91C779AFF00D75E09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		837032FF1C77A4ED00D75E09 /* A Sky Full of Stars.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A Sky Full of Stars.mp3"; sourceTree = "<group>"; };
+		837033001C77A4ED00D75E09 /* Alive.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Alive.mp3; sourceTree = "<group>"; };
+		837033011C77A4ED00D75E09 /* Como Te Voy a Olvidar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Como Te Voy a Olvidar.jpg"; sourceTree = "<group>"; };
+		837033021C77A4ED00D75E09 /* Entren Los Que Quieran.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Entren Los Que Quieran.jpg"; sourceTree = "<group>"; };
+		837033031C77A4ED00D75E09 /* Ghost Stories.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ghost Stories.jpg"; sourceTree = "<group>"; };
+		837033041C77A4ED00D75E09 /* Go.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Go.mp3; sourceTree = "<group>"; };
+		837033051C77A4ED00D75E09 /* Ice on the Dune.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ice on the Dune.jpg"; sourceTree = "<group>"; };
+		837033061C77A4ED00D75E09 /* Mis Sentimientos.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mis Sentimientos.mp3"; sourceTree = "<group>"; };
+		837033071C77A4ED00D75E09 /* Muerte En Hawai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Muerte En Hawai.mp3"; sourceTree = "<group>"; };
+		837033081C77A4ED00D75E09 /* Riot Van.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Riot Van.mp3"; sourceTree = "<group>"; };
+		837033091C77A4ED00D75E09 /* Straighten the Rudder.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Straighten the Rudder.jpg"; sourceTree = "<group>"; };
+		8370330A1C77A4ED00D75E09 /* The Bay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The Bay.mp3"; sourceTree = "<group>"; };
+		8370330B1C77A4ED00D75E09 /* The English Riviera.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The English Riviera.jpg"; sourceTree = "<group>"; };
+		8370330C1C77A4ED00D75E09 /* The Race For Space.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The Race For Space.jpg"; sourceTree = "<group>"; };
+		8370331B1C77B69700D75E09 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +86,20 @@
 		837032E91C779AFF00D75E09 /* MusicPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				837032FF1C77A4ED00D75E09 /* A Sky Full of Stars.mp3 */,
+				837033001C77A4ED00D75E09 /* Alive.mp3 */,
+				837033011C77A4ED00D75E09 /* Como Te Voy a Olvidar.jpg */,
+				837033021C77A4ED00D75E09 /* Entren Los Que Quieran.jpg */,
+				837033031C77A4ED00D75E09 /* Ghost Stories.jpg */,
+				837033041C77A4ED00D75E09 /* Go.mp3 */,
+				837033051C77A4ED00D75E09 /* Ice on the Dune.jpg */,
+				837033061C77A4ED00D75E09 /* Mis Sentimientos.mp3 */,
+				837033071C77A4ED00D75E09 /* Muerte En Hawai.mp3 */,
+				837033081C77A4ED00D75E09 /* Riot Van.mp3 */,
+				837033091C77A4ED00D75E09 /* Straighten the Rudder.jpg */,
+				8370330A1C77A4ED00D75E09 /* The Bay.mp3 */,
+				8370330B1C77A4ED00D75E09 /* The English Riviera.jpg */,
+				8370330C1C77A4ED00D75E09 /* The Race For Space.jpg */,
 				837032EA1C779AFF00D75E09 /* AppDelegate.swift */,
 				837032EC1C779AFF00D75E09 /* ViewController.swift */,
 				837032EE1C779AFF00D75E09 /* Main.storyboard */,
@@ -63,6 +107,7 @@
 				837032F61C779AFF00D75E09 /* LaunchScreen.storyboard */,
 				837032F91C779AFF00D75E09 /* Info.plist */,
 				837032F11C779AFF00D75E09 /* MusicPlayer.xcdatamodeld */,
+				8370331B1C77B69700D75E09 /* TableViewController.swift */,
 			);
 			path = MusicPlayer;
 			sourceTree = "<group>";
@@ -125,9 +170,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8370331A1C77A4ED00D75E09 /* The Race For Space.jpg in Resources */,
 				837032F81C779AFF00D75E09 /* LaunchScreen.storyboard in Resources */,
+				837033101C77A4ED00D75E09 /* Entren Los Que Quieran.jpg in Resources */,
+				8370330F1C77A4ED00D75E09 /* Como Te Voy a Olvidar.jpg in Resources */,
+				837033191C77A4ED00D75E09 /* The English Riviera.jpg in Resources */,
+				837033121C77A4ED00D75E09 /* Go.mp3 in Resources */,
+				837033151C77A4ED00D75E09 /* Muerte En Hawai.mp3 in Resources */,
+				837033161C77A4ED00D75E09 /* Riot Van.mp3 in Resources */,
 				837032F51C779AFF00D75E09 /* Assets.xcassets in Resources */,
+				8370330E1C77A4ED00D75E09 /* Alive.mp3 in Resources */,
+				837033181C77A4ED00D75E09 /* The Bay.mp3 in Resources */,
+				8370330D1C77A4ED00D75E09 /* A Sky Full of Stars.mp3 in Resources */,
+				837033111C77A4ED00D75E09 /* Ghost Stories.jpg in Resources */,
 				837032F01C779AFF00D75E09 /* Main.storyboard in Resources */,
+				837033141C77A4ED00D75E09 /* Mis Sentimientos.mp3 in Resources */,
+				837033171C77A4ED00D75E09 /* Straighten the Rudder.jpg in Resources */,
+				837033131C77A4ED00D75E09 /* Ice on the Dune.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +200,7 @@
 				837032ED1C779AFF00D75E09 /* ViewController.swift in Sources */,
 				837032F31C779AFF00D75E09 /* MusicPlayer.xcdatamodeld in Sources */,
 				837032EB1C779AFF00D75E09 /* AppDelegate.swift in Sources */,
+				8370331C1C77B69700D75E09 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
